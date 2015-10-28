@@ -27,13 +27,13 @@ Data Sources
 Files
 ---------------- 
 * Libraries & Presubmitted Community Meetings.xlsx
-	This file is the combined dataset 
+	- This file is the combined dataset 
 
 * README.txt
-	Contains the description of the repository
+	- Contains the description of the repository
 
 * Processing Document 
-	Contains details of the processing steps involved in the combing of the documents.
+	- Contains details of the processing steps involved in the combing of the documents.
 
 ---------------- 
 License

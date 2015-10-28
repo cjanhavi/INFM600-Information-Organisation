@@ -15,13 +15,13 @@ This dataset is a combination of two datasets: Libraries and Presubmission Meeti
 Data Sources
 ----------------
 * Libraries 
-	This dataset describes the locations of all the libraries present in the Howard County by describing the city, zip code and geometrical locations of the libraries. It has unique identification numbers assigned to each library.  
+	- This dataset describes the locations of all the libraries present in the Howard County by describing the city, zip code and geometrical locations of the libraries. It has unique identification numbers assigned to each library.  
 
 * Presubmission Community Meetings
-	This dataset includes the list of the presubmission community meetings held in the Howard County since the year 2002. It describes the statistics related to the meeting which include the project name, meeting dates, locations of the meetings and the details about the proposed development projects.
+	- This dataset includes the list of the presubmission community meetings held in the Howard County since the year 2002. It describes the statistics related to the meeting which include the project name, meeting dates, locations of the meetings and the details about the proposed development projects.
 
 * Open Space Natural Resource
-	This dataset has the list of the open spaces present in the Howard County. It describes these locations with accurate geometrical locations, acreage and zones. This data can be used to make plans for future development of these spaces.   
+	- This dataset has the list of the open spaces present in the Howard County. It describes these locations with accurate geometrical locations, acreage and zones. This data can be used to make plans for future development of these spaces.   
 
 ---------------- 
 Files

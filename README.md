@@ -30,10 +30,10 @@ Files
 	- This file is the combined dataset 
 
 * README.txt
-	- Contains the description of the repository
+	- This file contains the description of the repository
 
 * Processing Document 
-	- Contains details of the processing steps involved in the combing of the documents.
+	- This file contains details of the processing steps involved in the combing of the documents.
 
 ---------------- 
 License
